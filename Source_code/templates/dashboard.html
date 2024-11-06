@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Marriott Griffin</title>
+  <link rel="stylesheet" href="theme.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet" />
+</head>
+<style>
+  :root {
+    --color-primary: white;
+    --color-surface: #030303;
+  }
+
+  /* Body Styling */
+  body {
+
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Header Section for Logos */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+
+  /* Centered Content Styling */
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    /* Space between the text, button, and input bar */
+    text-align: center;
+  }
+
+  /* Centered Text Container */
+  .container {
+    font-size: 10vmin;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: bold;
+    background: conic-gradient(#f6a2f6,
+        #e74f89,
+        #7e7ecb,
+        #ffd500,
+        #ee75d2,
+        #13f5fa,
+        #f6a2f6);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 150px;
+
+  }
+
+  /* Button Styling */
+  .button-85 {
+    padding: 0.6em 2em;
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+
+  .button-85:before {
+    content: "";
+    background: linear-gradient(45deg,
+        #ff0000,
+        #ff7300,
+        #fffb00,
+        #48ff00,
+        #00ffd5,
+        #002bff,
+        #7a00ff,
+        #ff00c8,
+        #ff0000);
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing-button-85 20s linear infinite;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+  }
+
+  @keyframes glowing-button-85 {
+    0% {
+      background-position: 0 0;
+    }
+
+    50% {
+      background-position: 400% 0;
+    }
+
+    100% {
+      background-position: 0 0;
+    }
+  }
+
+  .button-85:after {
+    z-index: -1;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #222;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  body {
+  background-image: url('https://cdn.discordapp.com/attachments/1295205933940473951/1297649239417163838/resized_1920x1080_image.png?ex=6716b187&is=67156007&hm=6c9edb1ad7e94f30dd60592836a1c5f40010d0595368ada65771d76094a63231&');
+  }
+
+  /* Input Bar Styling */
+  #input-bar {
+    width: 60%;
+    padding: 15px;
+    font-size: 1.2rem;
+    border: 2px solid var(--color-primary);
+    background-color: var(--color-surface);
+    color: var(--color-primary);
+    border-radius: 10px;
+    text-align: center;
+    outline: none;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3), 0 0 30px rgba(255, 255, 255, 0.4);
+    animation: glowing-input 5s infinite ease-in-out;
+  }
+
+  #input-bar::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  /* Glowing animation for the input field */
+  @keyframes glowing-input {
+    0% {
+      box-shadow: 0 0 5px rgba(255, 255, 255, 0.2), 0 0 10px rgba(255, 255, 255, 0.3);
+    }
+
+    50% {
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.5), 0 0 40px rgba(255, 255, 255, 0.7);
+    }
+
+    100% {
+      box-shadow: 0 0 5px rgba(255, 255, 255, 0.2), 0 0 10px rgba(255, 255, 255, 0.3);
+    }
+  }
+
+  /* SVG Filter */
+  .filter {
+    position: absolute;
+    visibility: hidden;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+  h2 {
+    color: #333;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+
+  .section {
+    margin-bottom: 40px;
+  }
+
+
+  .headerone {
+    background-color: #ff8177;
+    background-image: linear-gradient(to right,
+        #ff8177 0%,
+        #ff867a 10%,
+        #ff8c7f 21%,
+        #f99185 52%,
+        #cf556c 78%,
+        #b12a5b 100%)
+  }
+
+  ;
+</style>
+<link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/1295205933940473951/1297375261041627236/trip_planning_agent_logo_griffin_processed.png?ex=67165b1e&is=6715099e&hm=1e16070501d7574f8337198b6303aa651678fcd5774e0f216ac9ab742167c69d&">
+
+<body>
+  <!-- Header Section for Logos -->
+  <div class="header">
+      <img style="width:300px;height:200px;" src="https://cdn.discordapp.com/attachments/1295205933940473953/1297596421117055079/Marriottlogo.png?ex=67168056&is=67152ed6&hm=ae394ed3c9cfbde7e64668baa8ec4d0d1e3dd8251abb218f31060dc3b58ffeef&" alt="Marriott Logo" class="logo-left">
+      <img style="width:160px;height:160px;" src="https://cdn.discordapp.com/attachments/1295205933940473951/1297375261041627236/trip_planning_agent_logo_griffin_processed.png?ex=67165b1e&is=6715099e&hm=1e16070501d7574f8337198b6303aa651678fcd5774e0f216ac9ab742167c69d&" alt="Leplan Logo" class="logo-center">
+      <img style="width:300px;height:200px;" src="https://cdn.discordapp.com/attachments/1295205933940473953/1297596422106910771/VTLOGO.png?ex=67168057&is=67152ed7&hm=4f26fd99fdf5d1a9753706d5d39caba961b807022313f276e500ef769e8ea6af&" alt="VT Logo" class="logo-right">
+  </div>
+
+  <!-- Centered Content: Title, Button, and Input Bar -->
+  <div class="center-content">
+    <div class="container">Marriott Griffin</div>
+    <form action='/' method="POST">
+      <div class="chat_input">
+        <button class="button-85" type="submit" name="button_action" value="activated">Generate A Plan</button>
+      </div>
+      <br></br>
+      <input type="text" style="width: 800px; height:40px; font-size: 24px;  border-radius: 15px;" name="input-bar"
+        placeholder="Enter text here..." />
+      </div>
+
+  <!-- SVG for noise effect -->
+  <svg class="filter" xmlns="http://www.w3.org/2000/svg">
+    <filter id="noise">
+      <feTurbulence baseFrequency="0.185" />
+      <feColorMatrix values="0 0 0 9 -5
+                  0 0 0 9 -4
+                  0 0 0 9 -5
+                  0 0 0 0 1" />
+    </filter>
+  </svg>
+
+  {% if request.form.get('button_action') == 'activated' %}
+  
+  <h1>User Request</h1>
+  <h2>{{text_input}}</h2>
+
+  <!-- Centered Button -->
+  {%set message = "trip"%}
+  {% set days = dialog[message]["itinerary"]%}
+  <h1>{{days|length|string + "-Day Trip Itinerary"}}</h1>
+  <h2>Trip Information</h2>
+  <table>
+    <tr>
+      {% set keys = dialog[message].keys() | list %}
+      {% for key in keys[:2] %}
+      <h2>{{key_change(key)}}</h2>
+      <table>
+        {%set keys9 = dialog[message][key].keys()%}
+        <tr>
+          {%for c in keys9%}
+          <th>{{key_change(c)}}</th>
+          {%endfor%}
+        </tr>
+        <tr>
+          {%for z in keys9%}
+          <td>{{dialog[message][key][z]}}</td>
+          {%endfor%}
+        </tr>
+
+
+      </table>
+      {%endfor%}
+  </table>
+
+  <br></br>
+  {% for m1 in range(2, keys|length - 2)%}
+  <h2>{{key_change(keys[m1])}}</h2>
+  <table>
+    <tr>
+      {% set keys1 = dialog[message][keys[m1]].keys() | list %}
+      {% for j in keys1%}
+      <th>{{key_change(j)}}</th>
+      {%endfor%}
+    </tr>
+    <tr>
+      {% for m in keys1%}
+      <td>{{dialog[message][keys[m1]][m]}}</td>
+      {%endfor%}
+    </tr>
+  </table>
+  <br></br>
+  {%endfor%}
+
+  {%set list2 = dialog[message][keys[keys|length - 2]]%}
+  <h2>{{key_change(keys[keys|length - 2])}}</h2>
+  <br></br>
+  <table>
+    {% set keys5 = list2[0].keys()%}
+    <tr>
+      {% for sou in keys5%}
+      <th>{{key_change(sou)}}</th>
+      {%endfor%}
+    </tr>
+    {% for kay in range (0, list2|length)%}
+    <tr>
+      {%for lay in keys5%}
+      <td>{{dialog[message][keys[keys|length - 2]][kay][lay]}}</td>
+      {%endfor%}
+    </tr>
+    {%endfor%}
+
+  </table>
+  <br></br>
+  <h1>Itinerary Information</h1>
+  {% for day in range (0, days|length)%}
+  {% set keys2 = dialog[message]["itinerary"][day].keys() | list %}
+  {%for act in range (0, keys2|length) %}
+  {%if act == 0%}
+  <h2>{{"Plan for Day " + dialog[message]["itinerary"][day][keys2[act]]|string}}</h2>
+  {%else%}
+  <h2>{{key_change(keys2[act])}}</h2>
+
+  {%set list3 = dialog[message]["itinerary"][day][keys2[act]]%}
+
+  <table>
+    {% set keys6 = list3[0].keys()%}
+    <tr>
+      {% for ke in keys6%}
+      <th>{{key_change(ke)}}</th>
+      {%endfor%}
+    </tr>
+    {% for p in range (0, list3|length)%}
+    <tr>
+      {%for ke in keys6%}
+      <td>{{dialog[message]["itinerary"][day][keys2[1]][p][ke]}}</td>
+      {%endfor%}
+    </tr>
+    {%endfor%}
+  </table>
+  </table>
+  {%endif%}
+  {%endfor%}
+  <br></br>
+  {%endfor%}
+  {%endif%}
+
+
+</body>
+
+
+
+
+<!-- Footer Section -->
+
+
+
+<script src="./app.js"></script>
+</body>
+
+</html>

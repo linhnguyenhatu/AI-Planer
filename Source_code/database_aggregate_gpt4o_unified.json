@@ -1,0 +1,2210 @@
+{
+  "flight_and_transportation": [
+    {
+      "name": "Delta Flight 123",
+      "departure": "Sacramento, CA",
+      "destination": "Atlanta, GA",
+      "departure_time": "08:00",
+      "arrival_time": "16:00",
+      "duration": "05:00",
+      "price": 400,
+      "description": "Non-stop flight with in-flight entertainment."
+    },
+    {
+      "name": "American Airlines Flight 456",
+      "departure": "Sacramento, CA",
+      "destination": "Atlanta, GA",
+      "departure_time": "09:30",
+      "arrival_time": "17:30",
+      "duration": "05:00",
+      "price": 380,
+      "description": "Early check-in available, complimentary snacks."
+    },
+    {
+      "name": "United Flight 789",
+      "departure": "Sacramento, CA",
+      "destination": "Atlanta, GA",
+      "departure_time": "07:15",
+      "arrival_time": "15:15",
+      "duration": "05:00",
+      "price": 420,
+      "description": "Wi-Fi available, extra legroom seats."
+    },
+    {
+      "name": "Southwest Flight 101",
+      "departure": "Sacramento, CA",
+      "destination": "Atlanta, GA",
+      "departure_time": "10:00",
+      "arrival_time": "18:00",
+      "duration": "05:00",
+      "price": 390,
+      "description": "Free checked bag, open seating."
+    },
+    {
+      "name": "JetBlue Flight 202",
+      "departure": "Sacramento, CA",
+      "destination": "Atlanta, GA",
+      "departure_time": "11:00",
+      "arrival_time": "19:00",
+      "duration": "05:00",
+      "price": 410,
+      "description": "Complimentary drinks and snacks, power outlets at every seat."
+    },
+    {
+      "name": "Delta Flight 321",
+      "departure": "Atlanta, GA",
+      "destination": "Sacramento, CA",
+      "departure_time": "16:00",
+      "arrival_time": "20:00",
+      "duration": "05:00",
+      "price": 400,
+      "description": "Non-stop flight with in-flight entertainment."
+    },
+    {
+      "name": "American Airlines Flight 654",
+      "departure": "Atlanta, GA",
+      "destination": "Sacramento, CA",
+      "departure_time": "17:30",
+      "arrival_time": "21:30",
+      "duration": "05:00",
+      "price": 380,
+      "description": "Early check-in available, complimentary snacks."
+    },
+    {
+      "name": "United Flight 987",
+      "departure": "Atlanta, GA",
+      "destination": "Sacramento, CA",
+      "departure_time": "15:15",
+      "arrival_time": "19:15",
+      "duration": "05:00",
+      "price": 420,
+      "description": "Wi-Fi available, extra legroom seats."
+    },
+    {
+      "name": "Southwest Flight 303",
+      "departure": "Atlanta, GA",
+      "destination": "Sacramento, CA",
+      "departure_time": "18:00",
+      "arrival_time": "22:00",
+      "duration": "05:00",
+      "price": 390,
+      "description": "Free checked bag, open seating."
+    },
+    {
+      "name": "JetBlue Flight 404",
+      "departure": "Atlanta, GA",
+      "destination": "Sacramento, CA",
+      "departure_time": "19:00",
+      "arrival_time": "23:00",
+      "duration": "05:00",
+      "price": 410,
+      "description": "Complimentary drinks and snacks, power outlets at every seat."
+    },
+    {
+      "name": "Sunrise Airlines Flight 101",
+      "departure": "Las Vegas, NV",
+      "destination": "Stockton, CA",
+      "departure_time": "08:00",
+      "arrival_time": "09:30",
+      "duration": "1:30",
+      "price": 150,
+      "description": "Non-stop flight from Las Vegas to Stockton."
+    },
+    {
+      "name": "Greyhound Bus Service",
+      "departure": "Las Vegas, NV",
+      "destination": "Stockton, CA",
+      "departure_time": "09:00",
+      "arrival_time": "15:00",
+      "duration": "6:00",
+      "price": 45,
+      "description": "Direct bus service with onboard amenities."
+    },
+    {
+      "name": "Express Train A1",
+      "departure": "Las Vegas, NV",
+      "destination": "Stockton, CA",
+      "departure_time": "07:30",
+      "arrival_time": "14:00",
+      "duration": "6:30",
+      "price": 70,
+      "description": "Comfortable train ride with scenic views."
+    },
+    {
+      "name": "Budget Airlines Flight 204",
+      "departure": "Las Vegas, NV",
+      "destination": "Stockton, CA",
+      "departure_time": "12:00",
+      "arrival_time": "13:30",
+      "duration": "1:30",
+      "price": 120,
+      "description": "Affordable flight with limited baggage allowance."
+    },
+    {
+      "name": "Luxury Coach Service",
+      "departure": "Las Vegas, NV",
+      "destination": "Stockton, CA",
+      "departure_time": "10:00",
+      "arrival_time": "16:00",
+      "duration": "6:00",
+      "price": 60,
+      "description": "Premium bus service with extra legroom."
+    },
+    {
+      "name": "Sunrise Airlines Flight 102",
+      "departure": "Stockton, CA",
+      "destination": "Las Vegas, NV",
+      "departure_time": "17:00",
+      "arrival_time": "18:30",
+      "duration": "1:30",
+      "price": 150,
+      "description": "Non-stop flight from Stockton to Las Vegas."
+    },
+    {
+      "name": "Greyhound Bus Service",
+      "departure": "Stockton, CA",
+      "destination": "Las Vegas, NV",
+      "departure_time": "14:00",
+      "arrival_time": "20:00",
+      "duration": "6:00",
+      "price": 45,
+      "description": "Direct bus service with onboard amenities."
+    },
+    {
+      "name": "Express Train A2",
+      "departure": "Stockton, CA",
+      "destination": "Las Vegas, NV",
+      "departure_time": "15:30",
+      "arrival_time": "22:00",
+      "duration": "6:30",
+      "price": 70,
+      "description": "Comfortable train ride with scenic views."
+    },
+    {
+      "name": "Budget Airlines Flight 205",
+      "departure": "Stockton, CA",
+      "destination": "Las Vegas, NV",
+      "departure_time": "18:00",
+      "arrival_time": "19:30",
+      "duration": "1:30",
+      "price": 120,
+      "description": "Affordable flight with limited baggage allowance."
+    },
+    {
+      "name": "Luxury Coach Service",
+      "departure": "Stockton, CA",
+      "destination": "Las Vegas, NV",
+      "departure_time": "13:00",
+      "arrival_time": "19:00",
+      "duration": "6:00",
+      "price": 60,
+      "description": "Premium bus service with extra legroom."
+    },
+    {
+      "name": "Delta Flight 123",
+      "departure": "Houston, TX",
+      "destination": "Salt Lake City, UT",
+      "departure_time": "08:00",
+      "arrival_time": "10:30",
+      "duration": "02:30",
+      "price": 350,
+      "description": "Non-stop flight with complimentary snacks."
+    },
+    {
+      "name": "United Flight 456",
+      "departure": "Houston, TX",
+      "destination": "Salt Lake City, UT",
+      "departure_time": "09:00",
+      "arrival_time": "11:45",
+      "duration": "02:45",
+      "price": 370,
+      "description": "Direct flight with in-flight entertainment."
+    },
+    {
+      "name": "Southwest Flight 789",
+      "departure": "Houston, TX",
+      "destination": "Salt Lake City, UT",
+      "departure_time": "07:30",
+      "arrival_time": "10:00",
+      "duration": "02:30",
+      "price": 340,
+      "description": "Early morning flight with two free checked bags."
+    },
+    {
+      "name": "American Airlines Flight 101",
+      "departure": "Houston, TX",
+      "destination": "Salt Lake City, UT",
+      "departure_time": "10:00",
+      "arrival_time": "12:30",
+      "duration": "02:30",
+      "price": 360,
+      "description": "Mid-morning flight with WiFi available."
+    },
+    {
+      "name": "Frontier Flight 202",
+      "departure": "Houston, TX",
+      "destination": "Salt Lake City, UT",
+      "departure_time": "11:00",
+      "arrival_time": "13:45",
+      "duration": "02:45",
+      "price": 320,
+      "description": "Budget-friendly flight with pay-for snacks."
+    },
+    {
+      "name": "Delta Flight 321",
+      "departure": "Salt Lake City, UT",
+      "destination": "Houston, TX",
+      "departure_time": "15:00",
+      "arrival_time": "17:30",
+      "duration": "02:30",
+      "price": 350,
+      "description": "Non-stop flight with complimentary snacks."
+    },
+    {
+      "name": "United Flight 654",
+      "departure": "Salt Lake City, UT",
+      "destination": "Houston, TX",
+      "departure_time": "16:00",
+      "arrival_time": "18:45",
+      "duration": "02:45",
+      "price": 370,
+      "description": "Direct flight with in-flight entertainment."
+    },
+    {
+      "name": "Southwest Flight 987",
+      "departure": "Salt Lake City, UT",
+      "destination": "Houston, TX",
+      "departure_time": "14:30",
+      "arrival_time": "17:00",
+      "duration": "02:30",
+      "price": 340,
+      "description": "Afternoon flight with two free checked bags."
+    },
+    {
+      "name": "American Airlines Flight 303",
+      "departure": "Salt Lake City, UT",
+      "destination": "Houston, TX",
+      "departure_time": "17:00",
+      "arrival_time": "19:30",
+      "duration": "02:30",
+      "price": 360,
+      "description": "Evening flight with WiFi available."
+    },
+    {
+      "name": "Frontier Flight 404",
+      "departure": "Salt Lake City, UT",
+      "destination": "Houston, TX",
+      "departure_time": "18:00",
+      "arrival_time": "20:45",
+      "duration": "02:45",
+      "price": 320,
+      "description": "Budget-friendly flight with pay-for snacks."
+    },
+    {
+      "name": "Delta Flight 123",
+      "departure": "Richmond, VA",
+      "destination": "Miami, FL",
+      "departure_time": "09:00",
+      "arrival_time": "11:30",
+      "duration": "2:30",
+      "price": 250,
+      "description": "Direct flight from Richmond to Miami."
+    },
+    {
+      "name": "American Airlines 456",
+      "departure": "Richmond, VA",
+      "destination": "Orlando, FL",
+      "departure_time": "10:00",
+      "arrival_time": "12:45",
+      "duration": "2:45",
+      "price": 230,
+      "description": "Direct flight with complimentary snacks."
+    },
+    {
+      "name": "Southwest 789",
+      "departure": "Richmond, VA",
+      "destination": "Tampa, FL",
+      "departure_time": "08:30",
+      "arrival_time": "11:00",
+      "duration": "2:30",
+      "price": 220,
+      "description": "Direct flight with free checked baggage."
+    },
+    {
+      "name": "JetBlue 321",
+      "departure": "Richmond, VA",
+      "destination": "Jacksonville, FL",
+      "departure_time": "07:00",
+      "arrival_time": "09:30",
+      "duration": "2:30",
+      "price": 240,
+      "description": "Early morning flight with in-flight entertainment."
+    },
+    {
+      "name": "United 654",
+      "departure": "Richmond, VA",
+      "destination": "Fort Lauderdale, FL",
+      "departure_time": "09:30",
+      "arrival_time": "12:00",
+      "duration": "2:30",
+      "price": 260,
+      "description": "Includes free Wi-Fi for the duration of the flight."
+    },
+    {
+      "name": "Delta Flight 321",
+      "departure": "Miami, FL",
+      "destination": "Richmond, VA",
+      "departure_time": "16:00",
+      "arrival_time": "18:30",
+      "duration": "2:30",
+      "price": 250,
+      "description": "Direct flight from Miami to Richmond."
+    },
+    {
+      "name": "American Airlines 654",
+      "departure": "Orlando, FL",
+      "destination": "Richmond, VA",
+      "departure_time": "17:00",
+      "arrival_time": "19:45",
+      "duration": "2:45",
+      "price": 230,
+      "description": "Direct flight with complimentary snacks."
+    },
+    {
+      "name": "Southwest 987",
+      "departure": "Tampa, FL",
+      "destination": "Richmond, VA",
+      "departure_time": "15:30",
+      "arrival_time": "18:00",
+      "duration": "2:30",
+      "price": 220,
+      "description": "Direct flight with free checked baggage."
+    },
+    {
+      "name": "JetBlue 543",
+      "departure": "Jacksonville, FL",
+      "destination": "Richmond, VA",
+      "departure_time": "14:00",
+      "arrival_time": "16:30",
+      "duration": "2:30",
+      "price": 240,
+      "description": "Afternoon flight with in-flight entertainment."
+    },
+    {
+      "name": "United 987",
+      "departure": "Fort Lauderdale, FL",
+      "destination": "Richmond, VA",
+      "departure_time": "16:30",
+      "arrival_time": "19:00",
+      "duration": "2:30",
+      "price": 260,
+      "description": "Includes free Wi-Fi for the duration of the flight."
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Minneapolis, MN",
+      "destination": "Cleveland, OH",
+      "departure_time": "08:00",
+      "arrival_time": "22:00",
+      "duration": "14:00",
+      "price": 120,
+      "description": "Standard coach service with free Wi-Fi."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Minneapolis, MN",
+      "destination": "Columbus, OH",
+      "departure_time": "07:00",
+      "arrival_time": "21:00",
+      "duration": "14:00",
+      "price": 150,
+      "description": "Scenic route with dining car."
+    },
+    {
+      "name": "Megabus",
+      "departure": "Minneapolis, MN",
+      "destination": "Cincinnati, OH",
+      "departure_time": "09:00",
+      "arrival_time": "23:00",
+      "duration": "14:00",
+      "price": 100,
+      "description": "Budget-friendly option with power outlets."
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Minneapolis, MN",
+      "destination": "Toledo, OH",
+      "departure_time": "10:00",
+      "arrival_time": "00:00",
+      "duration": "14:00",
+      "price": 110,
+      "description": "Comfortable seating with rest stops."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Minneapolis, MN",
+      "destination": "Dayton, OH",
+      "departure_time": "06:00",
+      "arrival_time": "20:00",
+      "duration": "14:00",
+      "price": 140,
+      "description": "Spacious seating and luggage storage."
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Cleveland, OH",
+      "destination": "Minneapolis, MN",
+      "departure_time": "08:00",
+      "arrival_time": "22:00",
+      "duration": "14:00",
+      "price": 120,
+      "description": "Direct return service with free Wi-Fi."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Columbus, OH",
+      "destination": "Minneapolis, MN",
+      "departure_time": "07:00",
+      "arrival_time": "21:00",
+      "duration": "14:00",
+      "price": 150,
+      "description": "Comfortable return journey with dining car."
+    },
+    {
+      "name": "Megabus",
+      "departure": "Cincinnati, OH",
+      "destination": "Minneapolis, MN",
+      "departure_time": "09:00",
+      "arrival_time": "23:00",
+      "duration": "14:00",
+      "price": 100,
+      "description": "Economical return with power outlets."
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Toledo, OH",
+      "destination": "Minneapolis, MN",
+      "departure_time": "10:00",
+      "arrival_time": "00:00",
+      "duration": "14:00",
+      "price": 110,
+      "description": "Comfortable seating on return trip."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Dayton, OH",
+      "destination": "Minneapolis, MN",
+      "departure_time": "06:00",
+      "arrival_time": "20:00",
+      "duration": "14:00",
+      "price": 140,
+      "description": "Spacious seats and luggage space on return."
+    },
+    {
+      "name": "Flight 101",
+      "departure": "Santa Ana, CA",
+      "destination": "Bozeman, MT",
+      "departure_time": "08:00",
+      "arrival_time": "12:00",
+      "duration": "04:00",
+      "price": 350,
+      "description": "Non-stop flight with in-flight Wi-Fi."
+    },
+    {
+      "name": "Flight 202",
+      "departure": "Santa Ana, CA",
+      "destination": "Missoula, MT",
+      "departure_time": "09:30",
+      "arrival_time": "13:30",
+      "duration": "04:00",
+      "price": 330,
+      "description": "Includes complimentary snacks."
+    },
+    {
+      "name": "Bus 303",
+      "departure": "Santa Ana, CA",
+      "destination": "Bozeman, MT",
+      "departure_time": "07:00",
+      "arrival_time": "21:00",
+      "duration": "14:00",
+      "price": 120,
+      "description": "Scenic route with multiple stops."
+    },
+    {
+      "name": "Flight 404",
+      "departure": "Santa Ana, CA",
+      "destination": "Missoula, MT",
+      "departure_time": "11:00",
+      "arrival_time": "15:00",
+      "duration": "04:00",
+      "price": 340,
+      "description": "Direct flight, no meals included."
+    },
+    {
+      "name": "Train 505",
+      "departure": "Santa Ana, CA",
+      "destination": "Bozeman, MT",
+      "departure_time": "06:00",
+      "arrival_time": "20:00",
+      "duration": "14:00",
+      "price": 150,
+      "description": "Overnight sleeper train."
+    },
+    {
+      "name": "Flight 606",
+      "departure": "Missoula, MT",
+      "destination": "Santa Ana, CA",
+      "departure_time": "14:00",
+      "arrival_time": "18:00",
+      "duration": "04:00",
+      "price": 360,
+      "description": "Direct flight with free checked bag."
+    },
+    {
+      "name": "Flight 707",
+      "departure": "Bozeman, MT",
+      "destination": "Santa Ana, CA",
+      "departure_time": "10:00",
+      "arrival_time": "14:00",
+      "duration": "04:00",
+      "price": 345,
+      "description": "Non-stop flight, limited legroom."
+    },
+    {
+      "name": "Bus 808",
+      "departure": "Missoula, MT",
+      "destination": "Santa Ana, CA",
+      "departure_time": "08:00",
+      "arrival_time": "22:00",
+      "duration": "14:00",
+      "price": 130,
+      "description": "Daytime journey with scenic views."
+    },
+    {
+      "name": "Flight 909",
+      "departure": "Bozeman, MT",
+      "destination": "Santa Ana, CA",
+      "departure_time": "15:00",
+      "arrival_time": "19:00",
+      "duration": "04:00",
+      "price": 355,
+      "description": "Includes meal and beverage service."
+    },
+    {
+      "name": "Train 010",
+      "departure": "Missoula, MT",
+      "destination": "Santa Ana, CA",
+      "departure_time": "12:00",
+      "arrival_time": "02:00",
+      "duration": "14:00",
+      "price": 160,
+      "description": "Night train with sleeper compartments."
+    },
+    {
+      "name": "Delta Flight 101",
+      "departure": "San Jose, CA",
+      "destination": "Boise, ID",
+      "departure_time": "08:00",
+      "arrival_time": "11:00",
+      "duration": "03:00",
+      "price": 250,
+      "description": "Non-stop flight from San Jose to Boise."
+    },
+    {
+      "name": "United Flight 202",
+      "departure": "San Jose, CA",
+      "destination": "Boise, ID",
+      "departure_time": "09:30",
+      "arrival_time": "12:30",
+      "duration": "03:00",
+      "price": 270,
+      "description": "Direct flight with free Wi-Fi."
+    },
+    {
+      "name": "Greyhound Bus 303",
+      "departure": "San Jose, CA",
+      "destination": "Boise, ID",
+      "departure_time": "07:00",
+      "arrival_time": "21:00",
+      "duration": "14:00",
+      "price": 120,
+      "description": "Scenic bus ride with multiple stops."
+    },
+    {
+      "name": "Southwest Flight 404",
+      "departure": "San Jose, CA",
+      "destination": "Boise, ID",
+      "departure_time": "06:45",
+      "arrival_time": "09:45",
+      "duration": "03:00",
+      "price": 260,
+      "description": "Early morning flight with snacks included."
+    },
+    {
+      "name": "Amtrak Train 505",
+      "departure": "San Jose, CA",
+      "destination": "Boise, ID",
+      "departure_time": "05:00",
+      "arrival_time": "19:00",
+      "duration": "14:00",
+      "price": 150,
+      "description": "Comfortable train journey with dining car."
+    },
+    {
+      "name": "Delta Flight 606",
+      "departure": "Boise, ID",
+      "destination": "San Jose, CA",
+      "departure_time": "14:00",
+      "arrival_time": "17:00",
+      "duration": "03:00",
+      "price": 250,
+      "description": "Direct flight back to San Jose."
+    },
+    {
+      "name": "United Flight 707",
+      "departure": "Boise, ID",
+      "destination": "San Jose, CA",
+      "departure_time": "15:30",
+      "arrival_time": "18:30",
+      "duration": "03:00",
+      "price": 270,
+      "description": "Non-stop flight with in-flight entertainment."
+    },
+    {
+      "name": "Greyhound Bus 808",
+      "departure": "Boise, ID",
+      "destination": "San Jose, CA",
+      "departure_time": "09:00",
+      "arrival_time": "23:00",
+      "duration": "14:00",
+      "price": 120,
+      "description": "Overnight bus with comfortable seating."
+    },
+    {
+      "name": "Southwest Flight 909",
+      "departure": "Boise, ID",
+      "destination": "San Jose, CA",
+      "departure_time": "13:45",
+      "arrival_time": "16:45",
+      "duration": "03:00",
+      "price": 260,
+      "description": "Afternoon flight with free checked bag."
+    },
+    {
+      "name": "Amtrak Train 1010",
+      "departure": "Boise, ID",
+      "destination": "San Jose, CA",
+      "departure_time": "06:00",
+      "arrival_time": "20:00",
+      "duration": "14:00",
+      "price": 150,
+      "description": "Relaxing train ride with panoramic views."
+    },
+    {
+      "name": "Delta Flight 101",
+      "departure": "Louisville, KY",
+      "destination": "Detroit, MI",
+      "departure_time": "08:00",
+      "arrival_time": "09:30",
+      "duration": "01:30",
+      "price": 150,
+      "description": "Non-stop flight from Louisville to Detroit"
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Louisville, KY",
+      "destination": "Lansing, MI",
+      "departure_time": "07:00",
+      "arrival_time": "13:00",
+      "duration": "06:00",
+      "price": 50,
+      "description": "Direct bus service with comfortable seating"
+    },
+    {
+      "name": "Amtrak Wolverine",
+      "departure": "Louisville, KY",
+      "destination": "Ann Arbor, MI",
+      "departure_time": "06:30",
+      "arrival_time": "12:30",
+      "duration": "06:00",
+      "price": 70,
+      "description": "Scenic train route with dining car"
+    },
+    {
+      "name": "United Flight 202",
+      "departure": "Louisville, KY",
+      "destination": "Grand Rapids, MI",
+      "departure_time": "09:00",
+      "arrival_time": "10:45",
+      "duration": "01:45",
+      "price": 170,
+      "description": "Quick flight with in-flight Wi-Fi"
+    },
+    {
+      "name": "Megabus",
+      "departure": "Louisville, KY",
+      "destination": "Kalamazoo, MI",
+      "departure_time": "08:30",
+      "arrival_time": "14:30",
+      "duration": "06:00",
+      "price": 40,
+      "description": "Affordable bus service with free Wi-Fi"
+    },
+    {
+      "name": "Delta Flight 203",
+      "departure": "Detroit, MI",
+      "destination": "Louisville, KY",
+      "departure_time": "12:00",
+      "arrival_time": "13:30",
+      "duration": "01:30",
+      "price": 150,
+      "description": "Non-stop return flight"
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Lansing, MI",
+      "destination": "Louisville, KY",
+      "departure_time": "14:00",
+      "arrival_time": "20:00",
+      "duration": "06:00",
+      "price": 50,
+      "description": "Direct return bus service"
+    },
+    {
+      "name": "Amtrak Wolverine",
+      "departure": "Ann Arbor, MI",
+      "destination": "Louisville, KY",
+      "departure_time": "15:00",
+      "arrival_time": "21:00",
+      "duration": "06:00",
+      "price": 70,
+      "description": "Comfortable return train journey"
+    },
+    {
+      "name": "United Flight 204",
+      "departure": "Grand Rapids, MI",
+      "destination": "Louisville, KY",
+      "departure_time": "11:00",
+      "arrival_time": "12:45",
+      "duration": "01:45",
+      "price": 170,
+      "description": "Quick return flight with refreshments"
+    },
+    {
+      "name": "Megabus",
+      "departure": "Kalamazoo, MI",
+      "destination": "Louisville, KY",
+      "departure_time": "13:30",
+      "arrival_time": "19:30",
+      "duration": "06:00",
+      "price": 40,
+      "description": "Budget-friendly return bus service"
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Atlanta, GA",
+      "destination": "Chattanooga, TN",
+      "departure_time": "09:00",
+      "arrival_time": "12:00",
+      "duration": "03:00",
+      "price": 30,
+      "description": "Direct bus service with Wi-Fi."
+    },
+    {
+      "name": "Megabus",
+      "departure": "Atlanta, GA",
+      "destination": "Chattanooga, TN",
+      "departure_time": "10:00",
+      "arrival_time": "13:00",
+      "duration": "03:00",
+      "price": 25,
+      "description": "Affordable travel with power outlets."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Atlanta, GA",
+      "destination": "Chattanooga, TN",
+      "departure_time": "08:00",
+      "arrival_time": "11:30",
+      "duration": "03:30",
+      "price": 40,
+      "description": "Scenic route with comfortable seating."
+    },
+    {
+      "name": "FlixBus",
+      "departure": "Atlanta, GA",
+      "destination": "Chattanooga, TN",
+      "departure_time": "07:00",
+      "arrival_time": "10:00",
+      "duration": "03:00",
+      "price": 20,
+      "description": "Eco-friendly travel option."
+    },
+    {
+      "name": "BoltBus",
+      "departure": "Atlanta, GA",
+      "destination": "Chattanooga, TN",
+      "departure_time": "11:00",
+      "arrival_time": "14:00",
+      "duration": "03:00",
+      "price": 35,
+      "description": "Comfortable seating with extra legroom."
+    },
+    {
+      "name": "Greyhound Bus",
+      "departure": "Chattanooga, TN",
+      "destination": "Atlanta, GA",
+      "departure_time": "17:00",
+      "arrival_time": "20:00",
+      "duration": "03:00",
+      "price": 30,
+      "description": "Direct bus service with Wi-Fi."
+    },
+    {
+      "name": "Megabus",
+      "departure": "Chattanooga, TN",
+      "destination": "Atlanta, GA",
+      "departure_time": "18:00",
+      "arrival_time": "21:00",
+      "duration": "03:00",
+      "price": 25,
+      "description": "Affordable travel with power outlets."
+    },
+    {
+      "name": "Amtrak Train",
+      "departure": "Chattanooga, TN",
+      "destination": "Atlanta, GA",
+      "departure_time": "16:00",
+      "arrival_time": "19:30",
+      "duration": "03:30",
+      "price": 40,
+      "description": "Scenic route with comfortable seating."
+    },
+    {
+      "name": "FlixBus",
+      "departure": "Chattanooga, TN",
+      "destination": "Atlanta, GA",
+      "departure_time": "15:00",
+      "arrival_time": "18:00",
+      "duration": "03:00",
+      "price": 20,
+      "description": "Eco-friendly travel option."
+    },
+    {
+      "name": "BoltBus",
+      "departure": "Chattanooga, TN",
+      "destination": "Atlanta, GA",
+      "departure_time": "19:00",
+      "arrival_time": "22:00",
+      "duration": "03:00",
+      "price": 35,
+      "description": "Comfortable seating with extra legroom."
+    },
+    {
+      "name": "Flight 101",
+      "departure": "Indianapolis, IN",
+      "destination": "Denver, CO",
+      "departure_time": "07:00",
+      "arrival_time": "08:30",
+      "duration": "02:30",
+      "price": 350,
+      "description": "Direct flight with free Wi-Fi"
+    },
+    {
+      "name": "Flight 202",
+      "departure": "Indianapolis, IN",
+      "destination": "Colorado Springs, CO",
+      "departure_time": "09:00",
+      "arrival_time": "11:00",
+      "duration": "03:00",
+      "price": 330,
+      "description": "Includes one checked bag"
+    },
+    {
+      "name": "Flight 303",
+      "departure": "Indianapolis, IN",
+      "destination": "Boulder, CO",
+      "departure_time": "12:00",
+      "arrival_time": "14:30",
+      "duration": "03:30",
+      "price": 340,
+      "description": "In-flight meal included"
+    },
+    {
+      "name": "Train A1",
+      "departure": "Indianapolis, IN",
+      "destination": "Denver, CO",
+      "departure_time": "06:00",
+      "arrival_time": "18:00",
+      "duration": "12:00",
+      "price": 200,
+      "description": "Scenic route with sleeper cabins"
+    },
+    {
+      "name": "Bus B1",
+      "departure": "Indianapolis, IN",
+      "destination": "Colorado Springs, CO",
+      "departure_time": "08:00",
+      "arrival_time": "20:00",
+      "duration": "12:00",
+      "price": 150,
+      "description": "Comfortable seats with legroom"
+    },
+    {
+      "name": "Flight 102",
+      "departure": "Denver, CO",
+      "destination": "Indianapolis, IN",
+      "departure_time": "18:00",
+      "arrival_time": "21:00",
+      "duration": "03:00",
+      "price": 350,
+      "description": "Evening flight with snacks"
+    },
+    {
+      "name": "Flight 203",
+      "departure": "Colorado Springs, CO",
+      "destination": "Indianapolis, IN",
+      "departure_time": "14:00",
+      "arrival_time": "17:00",
+      "duration": "03:00",
+      "price": 330,
+      "description": "Afternoon flight with extra legroom"
+    },
+    {
+      "name": "Flight 304",
+      "departure": "Boulder, CO",
+      "destination": "Indianapolis, IN",
+      "departure_time": "15:00",
+      "arrival_time": "18:30",
+      "duration": "03:30",
+      "price": 340,
+      "description": "Direct flight with in-flight entertainment"
+    },
+    {
+      "name": "Train A2",
+      "departure": "Denver, CO",
+      "destination": "Indianapolis, IN",
+      "departure_time": "09:00",
+      "arrival_time": "21:00",
+      "duration": "12:00",
+      "price": 200,
+      "description": "Daytime train with dining car"
+    },
+    {
+      "name": "Bus B2",
+      "departure": "Colorado Springs, CO",
+      "destination": "Indianapolis, IN",
+      "departure_time": "07:00",
+      "arrival_time": "19:00",
+      "duration": "12:00",
+      "price": 150,
+      "description": "Economical option with free Wi-Fi"
+    }
+  ],
+  "accommodation": [
+    {
+      "name": "Party Central Hotel",
+      "price": 600,
+      "location": "Atlanta, GA",
+      "description": "Hotel with a rooftop bar and nightly events."
+    },
+    {
+      "name": "Fun Stay Inn",
+      "price": 550,
+      "location": "Atlanta, GA",
+      "description": "Close to nightlife, live music on weekends."
+    },
+    {
+      "name": "Celebration Suites",
+      "price": 650,
+      "location": "Atlanta, GA",
+      "description": "Spacious suites with party-friendly amenities."
+    },
+    {
+      "name": "Social Hub Hotel",
+      "price": 700,
+      "location": "Atlanta, GA",
+      "description": "Located in a vibrant area with multiple party venues."
+    },
+    {
+      "name": "Nightlife Hotel",
+      "price": 600,
+      "location": "Atlanta, GA",
+      "description": "Offers themed party nights and DJ performances."
+    },
+    {
+      "name": "Stockton Grand Hotel",
+      "price": 200,
+      "location": "Stockton, CA",
+      "description": "Luxurious hotel in the heart of Stockton."
+    },
+    {
+      "name": "Budget Inn",
+      "price": 80,
+      "location": "Stockton, CA",
+      "description": "Affordable and comfortable stay."
+    },
+    {
+      "name": "Riverside Motel",
+      "price": 100,
+      "location": "Stockton, CA",
+      "description": "Cozy motel with river views."
+    },
+    {
+      "name": "City Center Hostel",
+      "price": 50,
+      "location": "Stockton, CA",
+      "description": "Economical option with shared amenities."
+    },
+    {
+      "name": "Stockton Suites",
+      "price": 150,
+      "location": "Stockton, CA",
+      "description": "Spacious suites with modern facilities."
+    },
+    {
+      "name": "Grand America Hotel",
+      "price": 250,
+      "location": "Salt Lake City, UT",
+      "description": "Luxury hotel with a spa and fine dining options."
+    },
+    {
+      "name": "Hyatt Place",
+      "price": 180,
+      "location": "Salt Lake City, UT",
+      "description": "Comfortable hotel with breakfast included."
+    },
+    {
+      "name": "Kimpton Hotel Monaco",
+      "price": 230,
+      "location": "Salt Lake City, UT",
+      "description": "Boutique hotel with stylish rooms and a fitness center."
+    },
+    {
+      "name": "Little America Hotel",
+      "price": 200,
+      "location": "Salt Lake City, UT",
+      "description": "Classic hotel with an indoor pool and restaurant."
+    },
+    {
+      "name": "Marriott City Center",
+      "price": 220,
+      "location": "Salt Lake City, UT",
+      "description": "Modern hotel with a business center and free WiFi."
+    },
+    {
+      "name": "Miami Beach Hotel",
+      "price": 1500,
+      "location": "Miami, FL",
+      "description": "Entire rooms with ocean views, allows visitors."
+    },
+    {
+      "name": "Orlando Resort",
+      "price": 1400,
+      "location": "Orlando, FL",
+      "description": "Family-friendly resort near theme parks, entire rooms."
+    },
+    {
+      "name": "Tampa Bay Inn",
+      "price": 1300,
+      "location": "Tampa, FL",
+      "description": "Cozy inn with private rooms and visitor access."
+    },
+    {
+      "name": "Jacksonville Suites",
+      "price": 1200,
+      "location": "Jacksonville, FL",
+      "description": "Modern suites, convenient location, visitor-friendly."
+    },
+    {
+      "name": "Fort Lauderdale Condo",
+      "price": 1600,
+      "location": "Fort Lauderdale, FL",
+      "description": "Spacious condos with full amenities and visitor access."
+    },
+    {
+      "name": "Pet-Friendly Inn",
+      "price": 150,
+      "location": "Cleveland, OH",
+      "description": "Cozy inn with pet amenities and breakfast included."
+    },
+    {
+      "name": "Comfort Suites",
+      "price": 130,
+      "location": "Columbus, OH",
+      "description": "Spacious suites with pet-friendly policies."
+    },
+    {
+      "name": "Luxe Hotel",
+      "price": 200,
+      "location": "Cincinnati, OH",
+      "description": "Luxury hotel with pet services and pool."
+    },
+    {
+      "name": "Budget Stay",
+      "price": 90,
+      "location": "Toledo, OH",
+      "description": "Affordable option with basic pet facilities."
+    },
+    {
+      "name": "Dayton Retreat",
+      "price": 160,
+      "location": "Dayton, OH",
+      "description": "Comfortable retreat with pet-friendly rooms."
+    },
+    {
+      "name": "Mountain View Inn",
+      "price": 150,
+      "location": "Bozeman, MT",
+      "description": "Cozy inn with stunning mountain views and free breakfast."
+    },
+    {
+      "name": "City Lodge",
+      "price": 120,
+      "location": "Missoula, MT",
+      "description": "Affordable lodge in the city center, close to attractions."
+    },
+    {
+      "name": "Riverside Hotel",
+      "price": 200,
+      "location": "Bozeman, MT",
+      "description": "Luxury hotel by the river with a spa and fine dining."
+    },
+    {
+      "name": "Historic Downtown Inn",
+      "price": 140,
+      "location": "Missoula, MT",
+      "description": "Charming inn located in the historic district."
+    },
+    {
+      "name": "Country Cabin Retreat",
+      "price": 180,
+      "location": "Bozeman, MT",
+      "description": "Secluded cabin experience with modern amenities."
+    },
+    {
+      "name": "Hotel Boise",
+      "price": 1500,
+      "location": "Boise, ID",
+      "description": "Modern hotel in downtown Boise with pool and spa."
+    },
+    {
+      "name": "Idaho Inn",
+      "price": 1200,
+      "location": "Boise, ID",
+      "description": "Cozy inn with complimentary breakfast."
+    },
+    {
+      "name": "Mountain Lodge",
+      "price": 1400,
+      "location": "Twin Falls, ID",
+      "description": "Rustic lodge with stunning mountain views."
+    },
+    {
+      "name": "City Suites",
+      "price": 1600,
+      "location": "Twin Falls, ID",
+      "description": "Luxury suites with full kitchen and gym."
+    },
+    {
+      "name": "Riverside Hotel",
+      "price": 1300,
+      "location": "Boise, ID",
+      "description": "Family-friendly hotel by the river with outdoor activities."
+    },
+    {
+      "name": "Hilton Detroit Downtown",
+      "price": 200,
+      "location": "Detroit, MI",
+      "description": "Luxury hotel with city views and private rooms"
+    },
+    {
+      "name": "Marriott Lansing",
+      "price": 180,
+      "location": "Lansing, MI",
+      "description": "Comfortable stay with modern amenities"
+    },
+    {
+      "name": "Graduate Ann Arbor",
+      "price": 220,
+      "location": "Ann Arbor, MI",
+      "description": "Charming hotel near the university"
+    },
+    {
+      "name": "Amway Grand Plaza",
+      "price": 250,
+      "location": "Grand Rapids, MI",
+      "description": "Historic hotel with elegant decor"
+    },
+    {
+      "name": "Radisson Plaza Hotel",
+      "price": 190,
+      "location": "Kalamazoo, MI",
+      "description": "Conveniently located with spacious rooms"
+    },
+    {
+      "name": "Chattanooga Marriott",
+      "price": 150,
+      "location": "Chattanooga, TN",
+      "description": "Entire room with city views and breakfast included."
+    },
+    {
+      "name": "Holiday Inn Express",
+      "price": 120,
+      "location": "Chattanooga, TN",
+      "description": "Entire room with free Wi-Fi and pool access."
+    },
+    {
+      "name": "Hampton Inn",
+      "price": 130,
+      "location": "Chattanooga, TN",
+      "description": "Entire room with complimentary breakfast."
+    },
+    {
+      "name": "Hilton Garden Inn",
+      "price": 140,
+      "location": "Chattanooga, TN",
+      "description": "Entire room with fitness center access."
+    },
+    {
+      "name": "DoubleTree by Hilton",
+      "price": 160,
+      "location": "Chattanooga, TN",
+      "description": "Entire room with king-sized beds and room service."
+    },
+    {
+      "name": "Pet Haven Hotel",
+      "price": 200,
+      "location": "Denver, CO",
+      "description": "Pet-friendly rooms with a pet park nearby"
+    },
+    {
+      "name": "Colorado Springs Suites",
+      "price": 180,
+      "location": "Colorado Springs, CO",
+      "description": "Spacious suites with kitchenettes and pet amenities"
+    },
+    {
+      "name": "Boulder Inn",
+      "price": 220,
+      "location": "Boulder, CO",
+      "description": "Modern rooms with pet-friendly policies and close to trails"
+    },
+    {
+      "name": "Mountain View Lodge",
+      "price": 210,
+      "location": "Denver, CO",
+      "description": "Lodge-style accommodations with pet services"
+    },
+    {
+      "name": "Springs Pet Retreat",
+      "price": 190,
+      "location": "Colorado Springs, CO",
+      "description": "Pet-friendly retreat with outdoor pet areas"
+    }
+  ],
+  "attraction": [
+    {
+      "name": "Georgia Aquarium",
+      "duration": "03:00",
+      "price": 45,
+      "location": "Atlanta, GA",
+      "opening_time": "09:00",
+      "closing_time": "20:00",
+      "description": "Explore one of the largest aquariums in the world."
+    },
+    {
+      "name": "World of Coca-Cola",
+      "duration": "02:00",
+      "price": 20,
+      "location": "Atlanta, GA",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Learn about the history of Coca-Cola and taste different varieties."
+    },
+    {
+      "name": "Atlanta Botanical Garden",
+      "duration": "02:30",
+      "price": 30,
+      "location": "Atlanta, GA",
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "description": "Beautiful gardens with a variety of plants and flowers."
+    },
+    {
+      "name": "CNN Studio Tours",
+      "duration": "01:30",
+      "price": 25,
+      "location": "Atlanta, GA",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Go behind the scenes of the CNN headquarters."
+    },
+    {
+      "name": "Piedmont Park",
+      "duration": "02:00",
+      "price": 0,
+      "location": "Atlanta, GA",
+      "opening_time": "06:00",
+      "closing_time": "23:00",
+      "description": "A large urban park with scenic views and walking trails."
+    },
+    {
+      "name": "Haggin Museum",
+      "duration": "2:00",
+      "price": 8,
+      "location": "Stockton, CA",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Art and history museum with local exhibits."
+    },
+    {
+      "name": "Stockton Marina",
+      "duration": "3:00",
+      "price": 0,
+      "location": "Stockton, CA",
+      "opening_time": "00:00",
+      "closing_time": "23:59",
+      "description": "Beautiful waterfront area for a relaxing stroll."
+    },
+    {
+      "name": "Children's Museum of Stockton",
+      "duration": "1:30",
+      "price": 6,
+      "location": "Stockton, CA",
+      "opening_time": "12:00",
+      "closing_time": "17:00",
+      "description": "Interactive exhibits for children."
+    },
+    {
+      "name": "Pixie Woods",
+      "duration": "2:00",
+      "price": 5,
+      "location": "Stockton, CA",
+      "opening_time": "09:00",
+      "closing_time": "16:00",
+      "description": "Amusement park with rides and activities."
+    },
+    {
+      "name": "Bob Hope Theatre",
+      "duration": "2:30",
+      "price": 25,
+      "location": "Stockton, CA",
+      "opening_time": "18:00",
+      "closing_time": "22:00",
+      "description": "Historic theatre hosting live performances."
+    },
+    {
+      "name": "Temple Square",
+      "duration": "02:00",
+      "price": 0,
+      "location": "Salt Lake City, UT",
+      "opening_time": "09:00",
+      "closing_time": "21:00",
+      "description": "Historic site of the LDS Church with beautiful gardens."
+    },
+    {
+      "name": "Utah Museum of Fine Arts",
+      "duration": "03:00",
+      "price": 15,
+      "location": "Salt Lake City, UT",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Art museum with a diverse collection of works."
+    },
+    {
+      "name": "Red Butte Garden",
+      "duration": "02:30",
+      "price": 12,
+      "location": "Salt Lake City, UT",
+      "opening_time": "09:00",
+      "closing_time": "19:00",
+      "description": "Botanical garden with walking trails and seasonal exhibits."
+    },
+    {
+      "name": "Natural History Museum of Utah",
+      "duration": "03:00",
+      "price": 20,
+      "location": "Salt Lake City, UT",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Museum featuring exhibits on Utah's natural history."
+    },
+    {
+      "name": "Antelope Island State Park",
+      "duration": "04:00",
+      "price": 10,
+      "location": "Salt Lake City, UT",
+      "opening_time": "07:00",
+      "closing_time": "22:00",
+      "description": "State park with wildlife viewing and hiking trails."
+    },
+    {
+      "name": "Miami Zoo",
+      "duration": "4:00",
+      "price": 30,
+      "location": "Miami, FL",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Explore diverse wildlife exhibits."
+    },
+    {
+      "name": "Orlando Theme Park",
+      "duration": "8:00",
+      "price": 120,
+      "location": "Orlando, FL",
+      "opening_time": "10:00",
+      "closing_time": "22:00",
+      "description": "Thrilling rides and entertainment."
+    },
+    {
+      "name": "Tampa Aquarium",
+      "duration": "3:00",
+      "price": 28,
+      "location": "Tampa, FL",
+      "opening_time": "10:00",
+      "closing_time": "18:00",
+      "description": "Interactive marine life exhibits."
+    },
+    {
+      "name": "Jacksonville Art Museum",
+      "duration": "2:00",
+      "price": 15,
+      "location": "Jacksonville, FL",
+      "opening_time": "11:00",
+      "closing_time": "17:00",
+      "description": "Contemporary art displays."
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "duration": "6:00",
+      "price": 0,
+      "location": "Fort Lauderdale, FL",
+      "opening_time": "08:00",
+      "closing_time": "20:00",
+      "description": "Relax on the scenic beach."
+    },
+    {
+      "name": "Rock & Roll Hall of Fame",
+      "duration": "02:00",
+      "price": 30,
+      "location": "Cleveland, OH",
+      "opening_time": "10:00",
+      "closing_time": "18:00",
+      "description": "Explore the history of rock music."
+    },
+    {
+      "name": "Columbus Zoo",
+      "duration": "03:00",
+      "price": 20,
+      "location": "Columbus, OH",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Family-friendly zoo with diverse animals."
+    },
+    {
+      "name": "Cincinnati Museum Center",
+      "duration": "02:30",
+      "price": 25,
+      "location": "Cincinnati, OH",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Interactive exhibits and historical displays."
+    },
+    {
+      "name": "Toledo Art Museum",
+      "duration": "01:30",
+      "price": 10,
+      "location": "Toledo, OH",
+      "opening_time": "11:00",
+      "closing_time": "16:00",
+      "description": "Collection of classic and modern art."
+    },
+    {
+      "name": "Dayton Aviation Heritage Park",
+      "duration": "02:00",
+      "price": 15,
+      "location": "Dayton, OH",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Learn about aviation history."
+    },
+    {
+      "name": "Yellowstone National Park",
+      "duration": "06:00",
+      "price": 35,
+      "location": "Bozeman, MT",
+      "opening_time": "08:00",
+      "closing_time": "18:00",
+      "description": "Explore geysers, hot springs, and wildlife."
+    },
+    {
+      "name": "Missoula Art Museum",
+      "duration": "02:00",
+      "price": 0,
+      "location": "Missoula, MT",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Contemporary art exhibits with free admission."
+    },
+    {
+      "name": "Bozeman Hot Springs",
+      "duration": "03:00",
+      "price": 20,
+      "location": "Bozeman, MT",
+      "opening_time": "09:00",
+      "closing_time": "22:00",
+      "description": "Relaxing natural hot springs."
+    },
+    {
+      "name": "Rattlesnake National Recreation Area",
+      "duration": "05:00",
+      "price": 0,
+      "location": "Missoula, MT",
+      "opening_time": "06:00",
+      "closing_time": "20:00",
+      "description": "Hiking trails and scenic views."
+    },
+    {
+      "name": "Montana Grizzly Encounter",
+      "duration": "01:30",
+      "price": 10,
+      "location": "Bozeman, MT",
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "description": "Sanctuary for rescued grizzly bears."
+    },
+    {
+      "name": "Boise Art Museum",
+      "duration": "02:00",
+      "price": 15,
+      "location": "Boise, ID",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Contemporary art exhibits and local artist showcases."
+    },
+    {
+      "name": "Shoshone Falls",
+      "duration": "03:00",
+      "price": 0,
+      "location": "Twin Falls, ID",
+      "opening_time": "08:00",
+      "closing_time": "18:00",
+      "description": "Beautiful waterfalls known as the 'Niagara of the West'."
+    },
+    {
+      "name": "Old Idaho Penitentiary",
+      "duration": "01:30",
+      "price": 10,
+      "location": "Boise, ID",
+      "opening_time": "12:00",
+      "closing_time": "17:00",
+      "description": "Historic prison with guided tours."
+    },
+    {
+      "name": "Craters of the Moon",
+      "duration": "04:00",
+      "price": 20,
+      "location": "Arco, ID",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Unique volcanic landscape and hiking trails."
+    },
+    {
+      "name": "Perrine Bridge",
+      "duration": "01:00",
+      "price": 0,
+      "location": "Twin Falls, ID",
+      "opening_time": "00:00",
+      "closing_time": "23:59",
+      "description": "Iconic bridge with stunning canyon views."
+    },
+    {
+      "name": "Detroit Institute of Arts",
+      "duration": "03:00",
+      "price": 14,
+      "location": "Detroit, MI",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "World-class art museum with diverse collections"
+    },
+    {
+      "name": "Michigan State Capitol",
+      "duration": "01:30",
+      "price": 0,
+      "location": "Lansing, MI",
+      "opening_time": "08:00",
+      "closing_time": "16:00",
+      "description": "Historic government building with guided tours"
+    },
+    {
+      "name": "University of Michigan Museum of Art",
+      "duration": "02:00",
+      "price": 10,
+      "location": "Ann Arbor, MI",
+      "opening_time": "10:00",
+      "closing_time": "18:00",
+      "description": "Extensive art collection in a modern setting"
+    },
+    {
+      "name": "Frederik Meijer Gardens",
+      "duration": "02:30",
+      "price": 15,
+      "location": "Grand Rapids, MI",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Beautiful botanical gardens and sculpture park"
+    },
+    {
+      "name": "Kalamazoo Valley Museum",
+      "duration": "02:00",
+      "price": 0,
+      "location": "Kalamazoo, MI",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Interactive exhibits for all ages"
+    },
+    {
+      "name": "Tennessee Aquarium",
+      "duration": "03:00",
+      "price": 35,
+      "location": "Chattanooga, TN",
+      "opening_time": "10:00",
+      "closing_time": "18:00",
+      "description": "Explore diverse marine life exhibits."
+    },
+    {
+      "name": "Lookout Mountain",
+      "duration": "04:00",
+      "price": 25,
+      "location": "Chattanooga, TN",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Beautiful views and hiking trails."
+    },
+    {
+      "name": "Creative Discovery Museum",
+      "duration": "02:00",
+      "price": 15,
+      "location": "Chattanooga, TN",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Interactive exhibits for all ages."
+    },
+    {
+      "name": "Ruby Falls",
+      "duration": "02:00",
+      "price": 20,
+      "location": "Chattanooga, TN",
+      "opening_time": "09:00",
+      "closing_time": "18:00",
+      "description": "Underground waterfall tour."
+    },
+    {
+      "name": "Chattanooga Zoo",
+      "duration": "03:00",
+      "price": 10,
+      "location": "Chattanooga, TN",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "See a variety of animals and habitats."
+    },
+    {
+      "name": "Denver Art Museum",
+      "duration": "02:00",
+      "price": 15,
+      "location": "Denver, CO",
+      "opening_time": "10:00",
+      "closing_time": "17:00",
+      "description": "Contemporary art exhibits and interactive installations"
+    },
+    {
+      "name": "Garden of the Gods",
+      "duration": "03:00",
+      "price": 0,
+      "location": "Colorado Springs, CO",
+      "opening_time": "05:00",
+      "closing_time": "22:00",
+      "description": "Stunning sandstone formations and hiking trails"
+    },
+    {
+      "name": "Flatirons Hiking",
+      "duration": "04:00",
+      "price": 0,
+      "location": "Boulder, CO",
+      "opening_time": "06:00",
+      "closing_time": "18:00",
+      "description": "Scenic hiking trails with panoramic views"
+    },
+    {
+      "name": "Red Rocks Amphitheatre",
+      "duration": "02:00",
+      "price": 20,
+      "location": "Denver, CO",
+      "opening_time": "08:00",
+      "closing_time": "19:00",
+      "description": "Iconic music venue and natural rock formations"
+    },
+    {
+      "name": "Cheyenne Mountain Zoo",
+      "duration": "03:00",
+      "price": 25,
+      "location": "Colorado Springs, CO",
+      "opening_time": "09:00",
+      "closing_time": "17:00",
+      "description": "Unique zoo experience on a mountainside"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "The Varsity",
+      "duration": "01:00",
+      "price": 15,
+      "location": "Atlanta, GA",
+      "opening_time": "08:00",
+      "closing_time": "23:00",
+      "description": "Famous for its hot dogs and hamburgers."
+    },
+    {
+      "name": "Mary Mac's Tea Room",
+      "duration": "01:30",
+      "price": 25,
+      "location": "Atlanta, GA",
+      "opening_time": "11:00",
+      "closing_time": "21:00",
+      "description": "Classic Southern cooking with a historic ambiance."
+    },
+    {
+      "name": "Gunshow",
+      "duration": "02:00",
+      "price": 60,
+      "location": "Atlanta, GA",
+      "opening_time": "17:30",
+      "closing_time": "22:00",
+      "description": "Unique dining experience with a rotating menu."
+    },
+    {
+      "name": "JCT Kitchen & Bar",
+      "duration": "01:30",
+      "price": 40,
+      "location": "Atlanta, GA",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Southern-inspired dishes with a modern twist."
+    },
+    {
+      "name": "Fox Bros. Bar-B-Q",
+      "duration": "02:00",
+      "price": 35,
+      "location": "Atlanta, GA",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Award-winning barbecue with a variety of smoked meats."
+    },
+    {
+      "name": "The Kitchen at Stonebriar",
+      "duration": "1:30",
+      "price": 30,
+      "location": "Stockton, CA",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Casual dining with a focus on local ingredients."
+    },
+    {
+      "name": "Bella Italia",
+      "duration": "1:15",
+      "price": 25,
+      "location": "Stockton, CA",
+      "opening_time": "12:00",
+      "closing_time": "21:00",
+      "description": "Authentic Italian cuisine in a cozy setting."
+    },
+    {
+      "name": "Stockton Diner",
+      "duration": "1:00",
+      "price": 15,
+      "location": "Stockton, CA",
+      "opening_time": "06:00",
+      "closing_time": "20:00",
+      "description": "Classic American diner open all day."
+    },
+    {
+      "name": "Sushi Garden",
+      "duration": "1:30",
+      "price": 35,
+      "location": "Stockton, CA",
+      "opening_time": "11:30",
+      "closing_time": "22:30",
+      "description": "Fresh sushi and Japanese dishes."
+    },
+    {
+      "name": "River Room",
+      "duration": "2:00",
+      "price": 40,
+      "location": "Stockton, CA",
+      "opening_time": "17:00",
+      "closing_time": "23:00",
+      "description": "Fine dining with a view of the river."
+    },
+    {
+      "name": "Red Iguana",
+      "duration": "01:30",
+      "price": 25,
+      "location": "Salt Lake City, UT",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Famous for its authentic Mexican cuisine."
+    },
+    {
+      "name": "The Copper Onion",
+      "duration": "02:00",
+      "price": 40,
+      "location": "Salt Lake City, UT",
+      "opening_time": "11:30",
+      "closing_time": "23:00",
+      "description": "American bistro with a focus on local ingredients."
+    },
+    {
+      "name": "Takashi",
+      "duration": "01:30",
+      "price": 35,
+      "location": "Salt Lake City, UT",
+      "opening_time": "12:00",
+      "closing_time": "22:00",
+      "description": "Popular sushi restaurant with inventive rolls."
+    },
+    {
+      "name": "Eva",
+      "duration": "01:45",
+      "price": 30,
+      "location": "Salt Lake City, UT",
+      "opening_time": "17:00",
+      "closing_time": "22:00",
+      "description": "Small plates and creative cocktails in a cozy setting."
+    },
+    {
+      "name": "Ruth's Diner",
+      "duration": "01:30",
+      "price": 20,
+      "location": "Salt Lake City, UT",
+      "opening_time": "08:00",
+      "closing_time": "21:00",
+      "description": "Historic diner serving hearty American fare."
+    },
+    {
+      "name": "La Petite Maison",
+      "duration": "1:30",
+      "price": 70,
+      "location": "Miami, FL",
+      "opening_time": "17:00",
+      "closing_time": "23:00",
+      "description": "Authentic French cuisine."
+    },
+    {
+      "name": "American Bistro",
+      "duration": "1:30",
+      "price": 50,
+      "location": "Orlando, FL",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Classic American dishes with a modern twist."
+    },
+    {
+      "name": "Mediterranean Delight",
+      "duration": "1:30",
+      "price": 60,
+      "location": "Tampa, FL",
+      "opening_time": "12:00",
+      "closing_time": "21:00",
+      "description": "Fresh Mediterranean flavors."
+    },
+    {
+      "name": "Italiano Ristorante",
+      "duration": "1:30",
+      "price": 65,
+      "location": "Jacksonville, FL",
+      "opening_time": "16:00",
+      "closing_time": "22:00",
+      "description": "Traditional Italian dining experience."
+    },
+    {
+      "name": "Fort Lauderdale Grill",
+      "duration": "1:30",
+      "price": 55,
+      "location": "Fort Lauderdale, FL",
+      "opening_time": "11:00",
+      "closing_time": "23:00",
+      "description": "American grill with local seafood."
+    },
+    {
+      "name": "American Diner",
+      "duration": "01:00",
+      "price": 20,
+      "location": "Cleveland, OH",
+      "opening_time": "07:00",
+      "closing_time": "21:00",
+      "description": "Classic American dishes in a retro setting."
+    },
+    {
+      "name": "Mediterranean Grill",
+      "duration": "01:30",
+      "price": 30,
+      "location": "Columbus, OH",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Authentic Mediterranean cuisine with vegan options."
+    },
+    {
+      "name": "Chinese Delight",
+      "duration": "01:00",
+      "price": 25,
+      "location": "Cincinnati, OH",
+      "opening_time": "10:00",
+      "closing_time": "21:00",
+      "description": "Traditional Chinese dishes and dim sum."
+    },
+    {
+      "name": "Italian Bistro",
+      "duration": "01:30",
+      "price": 35,
+      "location": "Toledo, OH",
+      "opening_time": "12:00",
+      "closing_time": "22:00",
+      "description": "Italian pasta and pizza in a cozy atmosphere."
+    },
+    {
+      "name": "Fusion Feast",
+      "duration": "01:30",
+      "price": 40,
+      "location": "Dayton, OH",
+      "opening_time": "11:00",
+      "closing_time": "23:00",
+      "description": "Innovative fusion of Italian and Mediterranean flavors."
+    },
+    {
+      "name": "Big Sky Diner",
+      "duration": "01:00",
+      "price": 25,
+      "location": "Bozeman, MT",
+      "opening_time": "07:00",
+      "closing_time": "21:00",
+      "description": "Classic American diner with hearty breakfast options."
+    },
+    {
+      "name": "Missoula Bistro",
+      "duration": "01:30",
+      "price": 40,
+      "location": "Missoula, MT",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Cozy bistro with local and organic dishes."
+    },
+    {
+      "name": "Bozeman Steakhouse",
+      "duration": "02:00",
+      "price": 60,
+      "location": "Bozeman, MT",
+      "opening_time": "17:00",
+      "closing_time": "23:00",
+      "description": "Premium steaks and a wide selection of wines."
+    },
+    {
+      "name": "The Missoula Grill",
+      "duration": "01:00",
+      "price": 30,
+      "location": "Missoula, MT",
+      "opening_time": "12:00",
+      "closing_time": "20:00",
+      "description": "Casual dining with a variety of grilled meats."
+    },
+    {
+      "name": "Bozeman Cafe",
+      "duration": "01:00",
+      "price": 20,
+      "location": "Bozeman, MT",
+      "opening_time": "06:00",
+      "closing_time": "19:00",
+      "description": "Cafe offering fresh pastries and coffee."
+    },
+    {
+      "name": "India House",
+      "duration": "01:30",
+      "price": 25,
+      "location": "Boise, ID",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Authentic Indian cuisine with vegan options."
+    },
+    {
+      "name": "Le Coq d'Or",
+      "duration": "02:00",
+      "price": 50,
+      "location": "Boise, ID",
+      "opening_time": "17:00",
+      "closing_time": "23:00",
+      "description": "Classic French restaurant with an extensive wine list."
+    },
+    {
+      "name": "Taj Mahal",
+      "duration": "01:30",
+      "price": 20,
+      "location": "Twin Falls, ID",
+      "opening_time": "12:00",
+      "closing_time": "21:00",
+      "description": "Family-run Indian restaurant with buffet service."
+    },
+    {
+      "name": "Chez Pierre",
+      "duration": "02:00",
+      "price": 45,
+      "location": "Twin Falls, ID",
+      "opening_time": "18:00",
+      "closing_time": "22:00",
+      "description": "Elegant French dining with seasonal menu."
+    },
+    {
+      "name": "Bombay Grill",
+      "duration": "01:30",
+      "price": 30,
+      "location": "Boise, ID",
+      "opening_time": "11:30",
+      "closing_time": "21:30",
+      "description": "Spicy Indian dishes with a modern twist."
+    },
+    {
+      "name": "Selden Standard",
+      "duration": "01:30",
+      "price": 30,
+      "location": "Detroit, MI",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Innovative American cuisine with local ingredients"
+    },
+    {
+      "name": "Red Haven",
+      "duration": "01:30",
+      "price": 25,
+      "location": "Lansing, MI",
+      "opening_time": "11:00",
+      "closing_time": "21:00",
+      "description": "Farm-to-table dining experience"
+    },
+    {
+      "name": "Zingerman's Deli",
+      "duration": "01:00",
+      "price": 20,
+      "location": "Ann Arbor, MI",
+      "opening_time": "10:00",
+      "closing_time": "18:00",
+      "description": "Famous deli with a wide selection of sandwiches"
+    },
+    {
+      "name": "The Green Well",
+      "duration": "01:30",
+      "price": 28,
+      "location": "Grand Rapids, MI",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Eco-friendly restaurant with a diverse menu"
+    },
+    {
+      "name": "Food Dance",
+      "duration": "01:30",
+      "price": 27,
+      "location": "Kalamazoo, MI",
+      "opening_time": "08:00",
+      "closing_time": "21:00",
+      "description": "Locally sourced ingredients in creative dishes"
+    },
+    {
+      "name": "St. John's Restaurant",
+      "duration": "01:30",
+      "price": 60,
+      "location": "Chattanooga, TN",
+      "opening_time": "17:00",
+      "closing_time": "22:00",
+      "description": "Fine dining with French cuisine."
+    },
+    {
+      "name": "Bluewater Grille",
+      "duration": "01:30",
+      "price": 50,
+      "location": "Chattanooga, TN",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Mediterranean-inspired seafood dishes."
+    },
+    {
+      "name": "India Mahal",
+      "duration": "01:30",
+      "price": 30,
+      "location": "Chattanooga, TN",
+      "opening_time": "11:00",
+      "closing_time": "21:30",
+      "description": "Authentic Indian cuisine with vegetarian options."
+    },
+    {
+      "name": "P.F. Chang's",
+      "duration": "01:30",
+      "price": 40,
+      "location": "Chattanooga, TN",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Modern Chinese cuisine with a stylish atmosphere."
+    },
+    {
+      "name": "Alleia",
+      "duration": "01:30",
+      "price": 55,
+      "location": "Chattanooga, TN",
+      "opening_time": "17:00",
+      "closing_time": "22:00",
+      "description": "Italian-Mediterranean fusion with local ingredients."
+    },
+    {
+      "name": "Taco Del Sol",
+      "duration": "01:00",
+      "price": 20,
+      "location": "Denver, CO",
+      "opening_time": "11:00",
+      "closing_time": "21:00",
+      "description": "Authentic Mexican cuisine with vegan options"
+    },
+    {
+      "name": "Pasta Bella",
+      "duration": "01:30",
+      "price": 30,
+      "location": "Colorado Springs, CO",
+      "opening_time": "12:00",
+      "closing_time": "22:00",
+      "description": "Traditional Italian dishes with homemade pasta"
+    },
+    {
+      "name": "Mediterranean Oasis",
+      "duration": "01:00",
+      "price": 25,
+      "location": "Boulder, CO",
+      "opening_time": "10:00",
+      "closing_time": "20:00",
+      "description": "Mediterranean flavors with fresh ingredients"
+    },
+    {
+      "name": "Spice Route",
+      "duration": "01:00",
+      "price": 28,
+      "location": "Denver, CO",
+      "opening_time": "11:00",
+      "closing_time": "22:00",
+      "description": "Indian cuisine with a modern twist"
+    },
+    {
+      "name": "Cucina Italiana",
+      "duration": "01:30",
+      "price": 35,
+      "location": "Boulder, CO",
+      "opening_time": "12:00",
+      "closing_time": "21:00",
+      "description": "Fine Italian dining with a cozy atmosphere"
+    }
+  ]
+}
